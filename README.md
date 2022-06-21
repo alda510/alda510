@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alda510
 - 👀 I’m interested in tech and science, specially dev languages and ecology!
-- 🌱 I’m currently learning python/R and data analysys db/tools!
+- 🌱 I’m currently learning python/R, data analysys db/tools and front-end (HTML, CSS and JS)!
 - 💞️ I’m looking to collaborate on similar projects and such!
 - 📫 How to reach me: trough DM's here or on linkedin!
 
